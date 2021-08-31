@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saad-zafar-khan-61a366196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-zafar-khan-61a366196/" height="30" width="40" /></a>
-<a href="https://kaggle.com/szk.2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="szk.2001" height="30" width="40" /></a>
+<a href="https://kaggle.com/szk2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="szk2001" height="30" width="40" /></a>
 <a href="https://instagram.com/saadkhan.2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadkhan.2001" height="30" width="40" /></a>
 </p>
    
