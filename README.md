@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-zafar-khan-61a366196/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.zk.2001@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-73bb44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01923b10b23fb53f0f)
 ### I am Saad Zafar Khan
 
 - 🎓 I study Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
