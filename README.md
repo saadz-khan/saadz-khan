@@ -11,9 +11,7 @@
 
 - 🌱 I'm a ardent learner who's always willing to learn and work across technologies.
 
-- 🔭 I’m currently working on [SpotDown](https://github.com/saadz-khan/SpotDown) (Automated tool for downloading spotify playlists)
-
-- 👯 I’m looking to collaborate on [SpotDown](https://github.com/saadz-khan/SpotDown)
+- 👯 I’m looking to collaborate
 
 <!-- Languages and tools -->
 <h3 align="left">Languages and Tools:</h3>
