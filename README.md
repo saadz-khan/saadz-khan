@@ -27,11 +27,8 @@
    
    
 <h3 align="left">⚡ My GitHub Statistics</h3>
-
-<p>
-<!-- GitHub Stats -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=saadz-khan&show_icons=true&hide_border=true" />
-
-<!-- Most Used Languages -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadz-khan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p align="center">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=saadz-khan&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" align = "center"/>
+&nbsp;
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadz-khan&show_icons=true&locale=en&layout=compact&hide=html,ruby&theme=tokyonight" align = "center"/>
 </p>
