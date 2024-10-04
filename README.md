@@ -5,7 +5,9 @@
 [![Upwork](https://img.shields.io/badge/Upwork-73bb44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01923b10b23fb53f0f)
 ### I am Saad Zafar Khan
 
-- 🎓 I study Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
+- Currently doing my Masters in Computer Science at the University of Calgary, Calgary, AB, Canada 
+
+- 🎓 I graduated Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
 
 - 🔭 I'm a Developer who is passionate about Computer Science, Hardware implementation of machines, and Problem Solving in general.
 
